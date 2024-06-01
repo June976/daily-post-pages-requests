@@ -1,10 +1,10 @@
-# Daily post pages requests
+## Daily post pages requests
 
 This repository is pool to store the requests submitted to Chat-GPT. 
 
 The requests is stored in the [*requests.json*](https://github.com/June976/daily-post-pages-requests/blob/main/requests.json) file.
 
-# Push your requests
+## Push your requests
 
 If you want to add your requests in, please note:
 > [!CAUTION]
@@ -19,7 +19,7 @@ If you want to add your requests in, please note:
 > [!CAUTION]
 > 4. The encoding style of the [*requests.json*](https://github.com/June976/daily-post-pages-requests/blob/main/requests.json) file is **utf-8**.
 
-# Where you can see the responses from Chcat-GPT
+## Where you can see the responses from Chcat-GPT
 
 My personal pages:
 
@@ -28,5 +28,5 @@ My personal pages:
 
 
 
-<font size=5>Awaiting for your creative submission</font>
+# <center>`Awaiting for your creative submission`
 
