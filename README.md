@@ -28,5 +28,5 @@ My personal pages:
 
 
 
-<font color=SeaGreen size=5><center>Awaiting for your creative submission</center></font>
+<font color=SeaGreen>Awaiting for your creative submission</font>
 
