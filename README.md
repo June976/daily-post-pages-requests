@@ -21,7 +21,7 @@ If you want to add your requests in, please note:
 
 ## Where you can see the responses from Chcat-GPT
 
-#### My personal pages:
+#### My personal pages (daily updating):
 
 - [Jun's blog](https://www.jun997.xyz/tags/Daily-sharing/)
 - [Jun's next blog](https://next.jun997.xyz/tags/Daily-sharing/)
