@@ -2,7 +2,7 @@
 
 This repository is a pool to store the requests submitted to Chat-GPT. 
 
-The requests is stored in the [*requests.json*](https://github.com/June976/daily-post-pages-requests/blob/main/requests.json) file.
+The requests are stored in the [*requests.json*](https://github.com/June976/daily-post-pages-requests/blob/main/requests.json) file.
 
 ## Push your requests
 
